@@ -61,7 +61,7 @@ body {
 }
 
 .logo {
-    background-image: url(assets/asset\ 18.svg);
+    background-image: url(asset\ 18.svg);
     filter: invert(100%);
 }
 
